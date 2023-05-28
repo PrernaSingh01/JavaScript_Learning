@@ -43,7 +43,7 @@
 //console.log(false + true); --(1)
 //console.log(false - true); --(-1)
 
-// ** Interview Question ** //
+// ** 1st_Interview Question ** //
 /**  Diff. between null vs undefined **/
 
 //var iAmUseless = null;
@@ -53,3 +53,16 @@
 //var iAmStandBy;
 //console.log(iAmStandBy);
 //console.log(typeof iAmStandBy); --(undefined)
+
+//**  2nd_Interview Question **/
+/** What is Nan? **/
+
+// myPhoneNumber = 1234567890;
+//var myName = "Prerna Singh";
+
+//console.log(isNaN(myPhoneNumber));
+//console.log(isNaN(myName));
+
+//if (isNaN(myName)) {
+//  console.log("plzz enter valid number");
+//}

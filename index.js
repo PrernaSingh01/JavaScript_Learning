@@ -5,7 +5,8 @@
 //var myName = "Prerna Singh";
 //console.log(myName);
 
-/** Naming Practiice **/
+/**👉 Naming Practiice **/
+
 //var _myName = "Prerna";
 //var 1myName = "Prerna";
 //var _1my__Name = "Prerna";
@@ -13,4 +14,42 @@
 
 //console.log($myName);
 
-/**DataTypes **/
+/** 👉 DataTypes **/
+
+//var myName = "Prerna";
+//console.log(myName); // String
+
+//var myAge = 21; //Number
+
+//var iAMPrerna = true; //Boolean
+
+/** Types of Operator **/
+//console.log(typeof iAMPrerna);
+
+//** DataTypes Practice **//
+
+//console.log(10 + "20"); --(1024)
+//console.log(10 + 20); --(30)
+//console.log(9 - "5"); --(4) //1st JavaScript bug
+//console.log("java" + "Script"); --(javaScript)
+//console.log(" " + " "); --()
+//console.log(" " + 0); --(0)
+//console.log("Prerna" - "Singh"); --(Nan)
+//console.log("10" - "10"); --(0)
+//console.log(true + true); --(2)
+//   -> 1 true
+//   -> 0 false
+//console.log(true + false); --(1)
+//console.log(false + true); --(1)
+//console.log(false - true); --(-1)
+
+// ** Interview Question ** //
+/**  Diff. between null vs undefined **/
+
+//var iAmUseless = null;
+//console.log(iAmUseless);
+//console.log(typeof iAmUseless); --(object) 2nd JavaScript bug
+
+//var iAmStandBy;
+//console.log(iAmStandBy);
+//console.log(typeof iAmStandBy); --(undefined)

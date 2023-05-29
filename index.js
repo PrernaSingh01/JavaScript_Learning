@@ -66,3 +66,71 @@
 //if (isNaN(myName)) {
 //  console.log("plzz enter valid number");
 //}
+
+//** 👉Expressions and operators **//
+
+//** Assignment Operator **//
+
+//var x = 5;
+//var y = 5;
+
+//console.log(`Is both the x and y are equal : ${x == y}`);
+
+//** Arithmetic Operator **//
+
+//console.log(3 + 3);
+//console.log(10 - 5);
+//console.log(20 / 5);
+//console.log(5 * 6);
+
+//console.log("Remainder operator " + (27 % 4));
+
+//**  Increment and Decrement Operator **//
+
+/*var num = 15;
+var newNum = num++;
+console.log(num);
+console.log(newNum);*/
+
+/*var num = 15;
+var newNum = --num;
+console.log(num);
+console.log(newNum);*/
+
+//**  Comparison Operator **//
+
+//var a = 30;
+//var b = 10;
+
+// Equal(==)
+//console.log(a == b);
+
+// Not Equal to
+//console.log(a != b);
+
+//Greater Than (>)
+//console.log(a > b);
+
+//Greater Than or equal (>=)
+//console.log(a >= b);
+
+// Less Than (<)
+//console.log(a < b);
+
+// Less than or equal (<=)
+//console.log(a <= b);
+
+//** Logical Operator **//
+
+var a = 30;
+var b = -20;
+
+// Logical AND (&&)
+/*console.log(a > b && b > 0);
+console.log(a > b && b < a);*/
+
+// Logical OR (||)
+//console.log(a > b || b < 0);
+
+// Logical NOT (!)
+//console.log(!false);

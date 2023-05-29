@@ -134,3 +134,20 @@ console.log(a > b && b < a);*/
 
 // Logical NOT (!)
 //console.log(!false);
+
+//** String Concatenates (Operator)**//
+
+//console.log("Hello World");
+//console.log("Hello " + "World");
+
+//** Challenge **//
+
+//console.log(9 ** 2); // 9*9 //Exponentiation Operator
+//console.log("Prerna" + 5);
+//Swap number
+/*var a = 5;
+var b = 10;
+var c = b; // c = 10
+b = a; // b = 5
+a = c;
+console.log("The value of a is " + a);*/

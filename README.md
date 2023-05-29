@@ -8,5 +8,6 @@ Keep coding, keep learning!
 <hr>
 
 #Day 17 of #100DaysOfCode: Today was all about operators in JavaScript! ⚡️
-  I explored different operator types, honed my skills with a coding challenge, and even tackled an interview question. 
+
+I explored different operator types, honed my skills with a coding challenge, and even tackled an interview question. 
 Feeling accomplished and motivated to keep pushing forward! 💪💻 

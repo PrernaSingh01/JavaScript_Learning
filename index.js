@@ -151,3 +151,59 @@ var c = b; // c = 10
 b = a; // b = 5
 a = c;
 console.log("The value of a is " + a);*/
+
+//** Interview Question 4**//
+
+//**Diff. between == vs === *//
+//var a = 5;
+//var b = "5";
+
+/*console.log(typeof a);
+console.log(typeof b);
+console.log(a == b);*/
+
+/*console.log(typeof a);
+console.log(typeof b);
+console.log(a === b);*/
+
+//** 👉 Control Statement & Loops **//
+
+//** If Else Statement **//
+
+// if rain = raincoat
+// else no raincoat
+
+var tomr = "rain";
+
+/*if (tomr == "rain") {
+  console.log("take a raincoat");
+} else {
+  console.log("No need to take a raincoat");
+}*/
+
+/*if (tomr == "Sunny") {
+  console.log("take a raincoat");
+} else {
+  console.log("No need to take a raincoat");
+}
+*/
+
+//** Challenge **//
+
+//---- Leap year or not
+
+/*var year = 2020;
+
+if (year % 4 === 0) {
+  if (year % 100 === 0) {
+    if (year % 400 === 0) {
+      console.log("the year " + year + "is a leap year");
+    } else {
+      console.log("the year " + year + " is not a leap year");
+    }
+  } else {
+    console.log("The year " + year + " is a leap year");
+  }
+} else {
+  console.log("The year " + year + " is not a leap year");
+}*/

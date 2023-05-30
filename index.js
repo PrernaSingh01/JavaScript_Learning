@@ -233,4 +233,26 @@ console.log(age > 18 ? "Eligible" : "Not Eligible");*/
 //** Switch statement **//
 
 // 1st without break statement
-//Find the Area Of Circle, traingle and rectangle?
+//Find the Area Of Circle, traingle and rectangle?'
+
+/*var area = "traingle";
+var PI = 3.142,
+  l = 5,
+  b = 4,
+  r = 3;
+
+switch (area) {
+  case "circle":
+    console.log("The area of the circle is " + PI * r ** 2);
+    break;
+  case "rectangle":
+    console.log("The area of the rectangle is " + PI * r ** 2);
+    break;
+  case "traingle":
+    console.log("The area of the traingle is " + PI * r ** 2);
+    break;
+  default:
+    console.log("please enter valid date ");
+}*/
+
+//** While loop statement **//

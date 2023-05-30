@@ -207,3 +207,30 @@ if (year % 4 === 0) {
 } else {
   console.log("The year " + year + " is not a leap year");
 }*/
+
+//** Truthy Fruthy **//
+
+/*if ((Score = 0)) {
+  console.log("OMG, We loss the game");
+} else {
+  console.log("Yay, We won the game");
+}*/
+
+//** Conditional (ternary) operator **//
+
+/*var age = 18;
+
+if (age >= 18) {
+  console.log("Eligible");
+} else {
+  console.log("Not Eligible");
+}*/
+
+/*var age = 17;
+
+console.log(age > 18 ? "Eligible" : "Not Eligible");*/
+
+//** Switch statement **//
+
+// 1st without break statement
+//Find the Area Of Circle, traingle and rectangle?

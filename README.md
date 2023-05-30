@@ -14,4 +14,5 @@ Feeling accomplished and motivated to keep pushing forward! 💪💻
 
 <hr>
 
-Day 18 of #100dayscode challenge: Delved into control statements, loops, and solved numerous coding and interview questions. <br> The learning journey continues, and I'm loving the progress! Excited for what lies ahead.
+Day 18 of #100dayscode challenge: Delved into control statements, loops, and solved numerous coding and interview questions. <br>
+The learning journey continues, and I'm loving the progress! Excited for what lies ahead.

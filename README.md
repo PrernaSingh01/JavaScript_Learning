@@ -11,3 +11,5 @@ Keep coding, keep learning!
 
 I explored different operator types, honed my skills with a coding challenge, and even tackled an interview question. <br> 
 Feeling accomplished and motivated to keep pushing forward! 💪💻 
+
+<hr>

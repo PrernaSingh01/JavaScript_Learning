@@ -256,3 +256,24 @@ switch (area) {
 }*/
 
 //** While loop statement **//
+
+/*var num = 0;
+//block scope
+while (num <= 10) {
+  console.log(num); //infinite loop
+  num++;
+}*/
+
+//** Do While Loop **//
+/*var num = 0;
+do {
+  console.log(num);
+  num++;
+} while (num <= 10);*/
+
+//** For Loop **//
+
+/*for (var num = 0; num <= 10; num++) {
+  debugger;
+  console.log(num);
+}*/

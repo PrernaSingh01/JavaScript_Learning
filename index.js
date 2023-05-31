@@ -277,3 +277,78 @@ do {
   debugger;
   console.log(num);
 }*/
+
+//** Challenge **//
+
+/*for (var num = 1; num <= 10; num++) {
+  var tableof = 8;
+  console.log(tableof + " * " + num + " = " + tableof * num);
+}*/
+
+/*for (var num = 1; num <= 10; num++) {
+  var tableof = 2;
+  console.log(tableof + " * " + num + " = " + tableof * num);
+}*/
+
+//** 👉 Functions in Javascript **//
+
+/*var a = 5;
+var b = 5;
+var sum = a + b;
+console.log(sum);*/
+
+/*function sum() {
+  var a = 5,
+    b = 5;
+  var total = a + b;
+  console.log(total);
+}*/
+
+//** Calling Function **//
+
+/*function sum() {
+  var a = 5,
+    b = 5;
+  var total = a + b;
+  console.log(total);
+}
+
+sum();*/
+
+//** Function Paramenters VS Function Arguments **//
+
+/*function sum(a, b) {
+  //function parameter
+  var total = a + b;
+  console.log(total);
+}
+sum();
+sum(10, 10); //function argument
+sum(2, 2);*/
+
+//** Function Expressions **//
+
+/*function sum(a, b) {
+  var total = a + b;
+  console.log(total);
+}
+
+var funExp = sum(5, 5);*/
+
+//** Return Keyword **//
+
+/*function sum(a, b) {
+  return (total = a + b);
+}
+
+var funExp = sum(5, 10);
+console.log(funExp);*/
+
+//** Anonymous Function **//
+
+/*var funExp = function (a, b) {
+  return (total = a + b);
+};
+
+var sum = funExp(5, 5);
+console.log(sum);*/

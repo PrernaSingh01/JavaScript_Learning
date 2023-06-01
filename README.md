@@ -24,6 +24,6 @@ Feeling accomplished and motivated to keep pushing forward. Learning and growing
 
 <hr>
 
-#Day20 of #100DaysOfCode: Started diving into ES6 today!🚀
-Learning about its powerful features and solving coding questions along the way. 
+#Day20 of #100DaysOfCode: Started diving into ES6 today!🚀 <br>
+Learning about its powerful features and solving coding questions along the way. <br>
 Exciting times in my coding journey! 💪 

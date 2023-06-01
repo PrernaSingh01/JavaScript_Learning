@@ -385,3 +385,10 @@ console.log(myName);*/
 }*/
 
 //** ⚡ Default Arguments **//
+
+function mult(a, b = 5) {
+  //default parameter
+  return a * b;
+}
+
+console.log(mult(5));

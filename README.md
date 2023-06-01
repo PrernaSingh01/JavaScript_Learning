@@ -23,3 +23,7 @@ Day 19 of #100DaysOfCode: Today, I delved into JavaScript functions, solved codi
 Feeling accomplished and motivated to keep pushing forward. Learning and growing every day! 💪🌟
 
 <hr>
+
+#Day20 of #100DaysOfCode: Started diving into ES6 today!🚀
+Learning about its powerful features and solving coding questions along the way. 
+Exciting times in my coding journey! 💪 

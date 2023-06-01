@@ -354,3 +354,34 @@ var sum = funExp(5, 5);
 console.log(sum);*/
 
 /*****************************************************************************************************************************************/
+
+///////******👉 ES6 ******////////
+
+//** ⚡ LET VS CONST VS VAR **//
+
+/*var myName = "Prerna";
+console.log(myName);
+
+myName = "Prerna Singh";
+console.log(myName);*/
+
+/*let myName = "Prerna";
+console.log(myName);
+
+myName = "Prerna Singh";
+console.log(myName);*/
+
+/*const myName = "Prerna";
+console.log(myName);
+
+myName = "Prerna Singh";
+console.log(myName);*/
+
+//** ⚡ Template Literals (Template Strings) **//
+
+/*for (let num = 1; num <= 10; num++) {
+  let tableof = 8;
+  console.log(`${tableof} * ${num} = ${tableof * num}`);
+}*/
+
+//** ⚡ Default Arguments **//

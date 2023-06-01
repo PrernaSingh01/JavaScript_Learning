@@ -404,11 +404,17 @@ function sum() {
   return `the sum of two number is ${sum}`;
 }*/
 
-const sum = () => {
+/*const sum = () => {
   let a = 5;
   b = 5;
   let sum = a + b;
   return `the sum of two number is ${sum}`;
+};
+
+console.log(sum());*/
+
+const sum = () => {
+  return `the sum of two number is ${(a = 5) + (b = 5)}`;
 };
 
 console.log(sum());

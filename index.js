@@ -413,8 +413,22 @@ function sum() {
 
 console.log(sum());*/
 
-const sum = () => {
+/*const sum = () => {
   return `the sum of two number is ${(a = 5) + (b = 5)}`;
 };
 
-console.log(sum());
+console.log(sum());*/
+
+//----👉 ARRAYS -----//
+
+//var myFreinds = ["Prerna", "Khushi", "Sunny", "Nimmi"];
+
+//** ⚡ Traversal array **//
+
+/*var myFreinds = ["Prerna", "Khushi", "Nimmi", "Sunny"];
+console.log(myFreinds[1]);*/
+var myFreinds = ["Prerna", "Khushi", "Nimmi", "Sunny"];
+
+for (var i = 0; i < myFreinds.length; i++) {
+  console.log(myFreinds[i]);
+}

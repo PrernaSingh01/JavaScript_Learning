@@ -513,7 +513,26 @@ console.log(newArr);
 let newArr = array1.map((currentElement, index, arr) => {
   return currentElement > 9;
 });
-
+console.log(array1)
 console.log(newArr);*/
+
+///🌟 challenge /// sqaure_root
+
+/*let arr = [25, 36, 49, 64, 81];
+
+let arrSqr = arr.map((currentElement) => {
+  return Math.sqrt(currentElement);
+});
+
+console.log(arrSqr);*/
+
+///🌟
+
+/*let arr = [25, 36, 49, 64, 81];
+
+let arr2 = arr
+  .map((currentElement) => currentElement * 2)
+  .filter((currentElement) => currentElement > 10);
+console.log(arr2);*/
 
 ///----reduce()

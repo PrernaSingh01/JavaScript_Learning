@@ -471,7 +471,7 @@ for (var i = 0; i < myFreinds.length; i++) {
 animals.push("cow", "sparrow");
 console.log(animals);*/
 
-///🌟 Challenge ///
+///🌟 Challenge ///--- Splice
 
 // 1: Add Dec at the end of an arrray?
 
@@ -479,3 +479,41 @@ console.log(animals);*/
 
 months.push("Dec");
 console.log(months);*/
+
+//const months = ["Jan", "march", "April", "June", "July"];
+
+//const newMonth = months.splice(5, 0, "Dec");
+//console.log(months);
+
+//console.log(newMonth);
+
+/*const updateMonth = months.splice(1, 1, "March");*/
+/*const updateMonth = months.splice(1, 2);
+console.log(months);
+console.log(updateMonth);*/
+
+///----filter()
+
+/*const array1 = [1, 4, 6, 9, 25, 100];
+
+//num>9
+
+let newArr = array1.filter((currentElement, index, arr) => {
+  return currentElement > 9;
+});
+//console.log(array1);
+console.log(newArr);
+*/
+
+///---map()
+
+/*const array1 = [1, 4, 6, 9, 25, 100];
+//num>9
+
+let newArr = array1.map((currentElement, index, arr) => {
+  return currentElement > 9;
+});
+
+console.log(newArr);*/
+
+///----reduce()

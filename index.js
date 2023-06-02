@@ -427,8 +427,37 @@ console.log(sum());*/
 
 /*var myFreinds = ["Prerna", "Khushi", "Nimmi", "Sunny"];
 console.log(myFreinds[1]);*/
-var myFreinds = ["Prerna", "Khushi", "Nimmi", "Sunny"];
+
+// for loop
+/*var myFreinds = ["Prerna", "Khushi", "Nimmi", "Sunny"];
 
 for (var i = 0; i < myFreinds.length; i++) {
   console.log(myFreinds[i]);
 }
+*/
+
+//for in loop & for of loop
+
+//var myFreinds = ["Prerna", "Khushi", "Nimmi", "Sunny"];
+
+/*for (let elements in myFreinds) {
+  console.log(elements);
+}*/
+
+/*for (let elements of myFreinds) {
+  console.log(elements);
+}*/
+
+//forEach loop
+
+//var myFreinds = ["Prerna", "Khushi", "Nimmi", "Sunny"];
+
+/*myFreinds.forEach(function (element, index, array) {
+  console.log(element + " " + index + " " + array);
+});*/
+
+/*myFreinds.forEach((element, index, array) => {
+  console.log(element + " " + index + " " + array);
+});*/
+
+//** ⚡ Searching and Filter in an Array **//

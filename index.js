@@ -461,3 +461,21 @@ for (var i = 0; i < myFreinds.length; i++) {
 });*/
 
 //** ⚡ Searching and Filter in an Array **//
+
+//** ⚡ Perform CRUD  **//
+
+//Array.Prototype.push()
+
+/*const animals = ["pig", "dog", "cat", "parrot"];
+
+animals.push("cow", "sparrow");
+console.log(animals);*/
+
+///🌟 Challenge ///
+
+// 1: Add Dec at the end of an arrray?
+
+/*const months = ["Jan", "march", "April", "June", "July"];
+
+months.push("Dec");
+console.log(months);*/

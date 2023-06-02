@@ -21,3 +21,9 @@ The learning journey continues, and I'm loving the progress! Excited for what li
 
 Day 19 of #100DaysOfCode: Today, I delved into JavaScript functions, solved coding questions, and even tackled some interview questions. 
 Feeling accomplished and motivated to keep pushing forward. Learning and growing every day! 💪🌟
+
+<hr>
+
+#Day20 of #100DaysOfCode: Started diving into ES6 today!🚀 <br>
+Learning about its powerful features and solving coding questions along the way. <br>
+Exciting times in my coding journey! 💪 

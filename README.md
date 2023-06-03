@@ -32,4 +32,5 @@ Exciting times in my coding journey! 💪
 
 #Day21 of #100DaysOfCode: Making progress in my JavaScript journey!🚀 <br>
 Delved into arrays and their powerful capabilities. Also conquered some challenging coding questions along the way. 
-Feeling excited and ready to take on more. Let's keep coding!💪 
+Feeling excited and ready to take on more. 
+Let's keep coding!💪 

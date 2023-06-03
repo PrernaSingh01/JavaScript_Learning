@@ -34,3 +34,5 @@ Exciting times in my coding journey! 💪
 Delved into arrays and their powerful capabilities. Also conquered some challenging coding questions along the way. 
 Feeling excited and ready to take on more. <br>
 Let's keep coding!💪 
+
+<hr>

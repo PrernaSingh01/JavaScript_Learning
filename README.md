@@ -36,3 +36,6 @@ Feeling excited and ready to take on more. <br>
 Let's keep coding!💪 
 
 <hr>
+
+#Day22 of #100DaysOfCode: Dived deeper into JavaScript arrays today, exploring advanced techniques like array destructuring, spread operator, and array methods like map, filter, and reduce. 
+Exciting to see the power and versatility of arrays in action! 💪💻 

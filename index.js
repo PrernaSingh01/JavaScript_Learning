@@ -536,3 +536,14 @@ let arr2 = arr
 console.log(arr2);*/
 
 ///----reduce()
+
+/*let arr = [2, 2, 2];
+
+let sum = arr.reduce((accumulator, currentElement, index, array) => {
+  debugger;
+  return (accumulator += currentElement);
+}, 4);
+
+console.log(sum);*/
+
+//** Strings **//

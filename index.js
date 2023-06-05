@@ -547,3 +547,18 @@ let sum = arr.reduce((accumulator, currentElement, index, array) => {
 console.log(sum);*/
 
 //** Strings **//
+
+//String.prototype.length👈
+
+/*let myName = "Prerna Singh";
+console.log(myName.length);*/
+
+//Escape Characters👈
+
+/*let anySentence = 'My name is "Prerna" Singh';
+console.log(anySentence);*/
+
+//Finding a string in a string👈
+
+/*const myBioData = "I am Prerna Singh";
+console.log(myBioData.indexOf("am"));*/

@@ -569,4 +569,65 @@ console.log(myBioData.indexOf("am"));*/
 let sData = myBioData.search("Prerna");
 console.log(sData);*/
 
-//Extracting String Parts
+//Extracting String Parts👈
+
+/*There are 3 methods for extracting a part of a string:
+
+slice(start, end)
+substring(start, end)
+substr(start, length)*/
+
+//slice(start, end)👈
+
+/*var str = "Apple, Mango, Banana";
+
+//let res = str.slice(0, 4);
+let res = str.slice(7);
+console.log(res);*/
+
+//Challenge⚡
+
+/*let myTweets =
+  "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.slice() extracts a part of a string and returns the extracted part in a new string.The method takes 2 parameters: start position, and end position (end not included).substring() is similar to slice().The difference is that start and end values less than 0 are treated as 0 in substring().";*/
+
+/*let len = myTweets.length;
+console.log(len);*/ //-- 426
+
+/*let myActualTweets = myTweets.slice(0, 280);
+console.log(myActualTweets);
+console.log(myActualTweets.length);*/
+
+//substring(start, end)
+/*var str = "Apple, Mango, Banana";
+//let response = str.substring(0, 4);
+let response = str.substring(7, -2);
+//let response = str.slice(7, -2);
+console.log(response);*/
+
+//substr(start, length)👈
+/*var str = "Apple, Mango, Banana";
+//let res = str.substr(0, 4);
+//let res = str.substr(7);
+let res = str.substr(-4);
+console.log(res);*/
+
+//Replacing String Content 👈
+
+/*let myBioData = "I am Prerna Singh";
+let replaceData = myBioData.replace("Prerna", "Khushi");
+console.log(replaceData);*/
+
+//Extracting String Character👈
+
+/*let str = "HELLO WORLD";
+//console.log(str.charAt(0));
+console.log(str.charCodeAt(0));*/
+
+//Challenge⚡
+
+//Return the unicode of the last character
+
+/*let str = "Hello World";
+let lastchar = str.length - 1;
+console.log(str.charCodeAt(lastchar));
+//console.log(str.charCodeAt(10));*/

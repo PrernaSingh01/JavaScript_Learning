@@ -562,3 +562,11 @@ console.log(anySentence);*/
 
 /*const myBioData = "I am Prerna Singh";
 console.log(myBioData.indexOf("am"));*/
+
+//Searching 👈
+
+/*const myBioData = "I am Prerna Singh";
+let sData = myBioData.search("Prerna");
+console.log(sData);*/
+
+//Extracting String Parts

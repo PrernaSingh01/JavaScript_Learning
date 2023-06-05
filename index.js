@@ -638,3 +638,15 @@ console.log(str.charCodeAt(lastchar));
 console.log(str[6]);*/
 
 //Other useful method👈
+
+/*let myName = "PRerna SINgh";
+console.log(myName.toUpperCase());
+console.log(myName.toLowerCase());*/
+
+// Concat() method
+
+/*let fName = "Prerna";
+let lName = "Singh";
+
+//console.log(fName.concat(lName));
+console.log(fName.concat(" ", lName));*/

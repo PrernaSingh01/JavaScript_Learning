@@ -42,6 +42,6 @@ Exciting to see the power and versatility of arrays in action! 💪💻
 
 <hr>
 
-Making impressive strides on #Day23 of #100DaysOfCode! 🚀 
-Expanding my knowledge of arrays and successfully solving coding challenges. The satisfaction of tackling problems head-on is unmatched. 
+Making impressive strides on #Day23 of #100DaysOfCode! 🚀 <br>
+Expanding my knowledge of arrays and successfully solving coding challenges. The satisfaction of tackling problems head-on is unmatched. <br>
 Excited to continue this coding journey! 💪🌟

@@ -27,3 +27,15 @@ Feeling accomplished and motivated to keep pushing forward. Learning and growing
 #Day20 of #100DaysOfCode: Started diving into ES6 today!🚀 <br>
 Learning about its powerful features and solving coding questions along the way. <br>
 Exciting times in my coding journey! 💪 
+
+<hr>
+
+#Day21 of #100DaysOfCode: Making progress in my JavaScript journey!🚀 <br>
+Delved into arrays and their powerful capabilities. Also conquered some challenging coding questions along the way. 
+Feeling excited and ready to take on more. <br>
+Let's keep coding!💪 
+
+<hr>
+
+#Day22 of #100DaysOfCode: Dived deeper into JavaScript arrays today, exploring advanced techniques like array destructuring, spread operator, and array methods like map, filter, and reduce. <br>
+Exciting to see the power and versatility of arrays in action! 💪💻 

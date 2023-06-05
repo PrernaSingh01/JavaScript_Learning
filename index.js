@@ -650,3 +650,27 @@ let lName = "Singh";
 
 //console.log(fName.concat(lName));
 console.log(fName.concat(" ", lName));*/
+
+// Converting a String to an Array
+/*var text = "a,b,c,d,e,f";
+
+console.log(text.split(","));
+console.log(text.split(" "));
+console.log(text.split(" | "));*/
+
+//Date & Time object 👈
+
+//new Date()
+
+/*let currentDate = new Date();
+console.log(currentDate);*/
+
+//console.log(new Date());
+//console.log(new Date().toLocaleString());
+//console.log(new Date().toString());
+
+//Date.now()
+
+//console.log(Date.now());
+
+//new Date( Jan, Feb,...)🌟

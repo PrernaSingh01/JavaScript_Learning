@@ -45,3 +45,8 @@ Exciting to see the power and versatility of arrays in action! 💪💻
 Making impressive strides on #Day23 of #100DaysOfCode! 🚀 <br>
 Expanding my knowledge of arrays and successfully solving coding challenges. The satisfaction of tackling problems head-on is unmatched. <br>
 Excited to continue this coding journey! 💪🌟
+
+<hr>
+
+#Day24 of #100DaysOfCode: Explored JavaScript strings and the Date and Time object today. <br>
+It's fascinating to see how versatile and powerful these concepts are. Excited to keep expanding my knowledge and skills! 💪🌟 

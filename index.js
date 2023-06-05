@@ -631,3 +631,10 @@ console.log(str.charCodeAt(0));*/
 let lastchar = str.length - 1;
 console.log(str.charCodeAt(lastchar));
 //console.log(str.charCodeAt(10));*/
+
+// [ ]
+
+/*var str = "HELLO WORLD";
+console.log(str[6]);*/
+
+//Other useful method👈

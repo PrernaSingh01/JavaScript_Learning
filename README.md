@@ -39,3 +39,14 @@ Let's keep coding!💪
 
 #Day22 of #100DaysOfCode: Dived deeper into JavaScript arrays today, exploring advanced techniques like array destructuring, spread operator, and array methods like map, filter, and reduce. <br>
 Exciting to see the power and versatility of arrays in action! 💪💻 
+
+<hr>
+
+Making impressive strides on #Day23 of #100DaysOfCode! 🚀 <br>
+Expanding my knowledge of arrays and successfully solving coding challenges. The satisfaction of tackling problems head-on is unmatched. <br>
+Excited to continue this coding journey! 💪🌟
+
+<hr>
+
+#Day24 of #100DaysOfCode: Explored JavaScript strings and the Date and Time object today. <br>
+It's fascinating to see how versatile and powerful these concepts are. Excited to keep expanding my knowledge and skills! 💪🌟 

@@ -674,3 +674,5 @@ console.log(currentDate);*/
 //console.log(Date.now());
 
 //new Date( Jan, Feb,...)🌟
+
+//console.log(2 + "2");

@@ -50,3 +50,5 @@ Excited to continue this coding journey! 💪🌟
 
 #Day24 of #100DaysOfCode: Explored JavaScript strings and the Date and Time object today. <br>
 It's fascinating to see how versatile and powerful these concepts are. Excited to keep expanding my knowledge and skills! 💪🌟 
+
+<hr>

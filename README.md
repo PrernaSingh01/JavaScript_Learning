@@ -55,3 +55,5 @@ It's fascinating to see how versatile and powerful these concepts are. Excited t
 
 Day 25 of #100DaysOfCode: Today may not have been the most productive day, but I still made progress in understanding the Date and Time object. Sometimes it's the small steps that pave the way for bigger breakthroughs. <br> 
 Learning is a journey, and I'm committed to keep going! 💪 
+
+<hr>

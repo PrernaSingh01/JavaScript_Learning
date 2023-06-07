@@ -58,4 +58,5 @@ Learning is a journey, and I'm committed to keep going! 💪
 
 <hr>
 
-Day 26 of #100DaysOfCode: Today was all about revising the JavaScript concepts I've learned so far. It's amazing how reviewing and reinforcing the fundamentals can strengthen my understanding. Ready to take on more coding challenges and keep progressing! 💪🚀 
+Day 26 of #100DaysOfCode: Today was all about revising the JavaScript concepts I've learned so far. It's amazing how reviewing and reinforcing the fundamentals can strengthen my understanding. <br>
+Ready to take on more coding challenges and keep progressing! 💪🚀 

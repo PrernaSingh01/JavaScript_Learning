@@ -676,3 +676,7 @@ console.log(currentDate);*/
 //new Date( Jan, Feb,...)🌟
 
 //console.log(2 + "2");
+
+//new Date(datestring)
+/*var d = new Date("August 26, 2001 11:13:00");
+console.log(d.toLocaleString());*/

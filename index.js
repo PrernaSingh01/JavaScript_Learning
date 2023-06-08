@@ -724,3 +724,38 @@ console.log(Math.round(num));*/
 /*console.log(Math.sqrt(25));
 console.log(Math.sqrt(4));
 console.log(Math.sqrt(16));*/
+
+//Math.abs()
+/*console.log(Math.abs(-55));
+console.log(Math.abs(-555));
+console.log(Math.abs(-44.123456));
+console.log(Math.abs(2 - 4));*/
+
+//Math.ceil()
+
+/*console.log(Math.ceil(4.4));
+console.log(Math.round(55.61));*/
+
+//Math Floor()
+
+//console.log(Math.floor(4.7));
+//console.log(Math.floor(99.1));
+
+//Math.min()
+
+//console.log(Math.min(0, 150, 200, 1000, -0, -4, -255));
+
+//Math.max()
+
+//console.log(Math.max(0, 4, 255, 1000, 50, -200, -7000));
+
+//Math.random
+
+//console.log(Math.floor(Math.random() * 10)); 0 to 9
+
+//Math.trunc()
+
+//console.log(Math.trunc(4.6));
+//console.log(Math.abs(Math.trunc(-99.1)));
+
+//  DOM in js👈

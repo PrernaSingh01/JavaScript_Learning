@@ -6,19 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Js_Learning</title>
   </head>
-  <body>
+  <body style="background-color: aqua">
     <p>Click the button to display a date after changing the hours.</p>
 
-    <button onclick="myFunction()">Try it</button>
+    <button onclick="myFunction()" style="color: rgb(233, 28, 21)">
+      Try it
+    </button>
 
     <p id="demo"></p>
+    <p id="time"></p>
 
     <script>
-      function myFunction() {
+      /*function myFunction() {
         var t = new Date();
         t.setHours(6);
         document.getElementById("demo").innerHTML = t;
-      }
+      }*/
+
+      var d = new Date().toLocaleDateString();
+      document.getElementById("demo").innerHTML = d;
+
+      /*var t = new Date().toLocaleTimeString();
+      document.getElementById("time").innerHTML = t;*/
     </script>
   </body>
 </html>

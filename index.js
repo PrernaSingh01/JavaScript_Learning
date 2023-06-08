@@ -719,3 +719,8 @@ console.log(Math.round(num));*/
 
 //Math.pow()
 //console.log(Math.pow(2, 3));
+
+//Math.sqrt()
+/*console.log(Math.sqrt(25));
+console.log(Math.sqrt(4));
+console.log(Math.sqrt(16));*/

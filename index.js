@@ -680,3 +680,18 @@ console.log(currentDate);*/
 //new Date(datestring)
 /*var d = new Date("August 26, 2001 11:13:00");
 console.log(d.toLocaleString());*/
+
+/*var d = new Date(0);
+console.log(d.toLocaleString());*/
+
+//Date Method 👈
+
+//const currentDate = new Date();
+
+//indivisual date
+//console.log(currentDate.toLocaleString());
+//console.log(currentDate.getFullYear());
+//console.log(currentDate.getDate());
+//console.log(currentDate.getDay());
+//console.log(currentDate.getMonth());
+//console.log(currentDate.getMinutes());

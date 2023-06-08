@@ -50,3 +50,13 @@ Excited to continue this coding journey! 💪🌟
 
 #Day24 of #100DaysOfCode: Explored JavaScript strings and the Date and Time object today. <br>
 It's fascinating to see how versatile and powerful these concepts are. Excited to keep expanding my knowledge and skills! 💪🌟 
+
+<hr>
+
+Day 25 of #100DaysOfCode: Today may not have been the most productive day, but I still made progress in understanding the Date and Time object. Sometimes it's the small steps that pave the way for bigger breakthroughs. <br> 
+Learning is a journey, and I'm committed to keep going! 💪 
+
+<hr>
+
+Day 26 of #100DaysOfCode: Today was all about revising the JavaScript concepts I've learned so far. It's amazing how reviewing and reinforcing the fundamentals can strengthen my understanding. <br>
+Ready to take on more coding challenges and keep progressing! 💪🚀 

@@ -717,4 +717,5 @@ console.log(d.toLocaleString());*/
 /*let num = 10.2555;
 console.log(Math.round(num));*/
 
-//
+//Math.pow()
+//console.log(Math.pow(2, 3));

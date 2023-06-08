@@ -173,7 +173,7 @@ console.log(a === b);*/
 // if rain = raincoat
 // else no raincoat
 
-var tomr = "rain";
+var tomr = "rain"; /*8/6/2023*/
 
 /*if (tomr == "rain") {
   console.log("take a raincoat");
@@ -695,3 +695,26 @@ console.log(d.toLocaleString());*/
 //console.log(currentDate.getDay());
 //console.log(currentDate.getMonth());
 //console.log(currentDate.getMinutes());
+
+//Challenge ⚡
+//new Date().toLocaleDateString(); ⚡ 8/6/2023 ⚡
+/*var d = new Date();
+console.log(d.toLocaleDateString());*/
+
+//new Date().toLocaleTimeString(); ⚡ 8:34:49 am ⚡
+/*var t = new Date();
+console.log(t.toLocaleTimeString());*/
+
+//new Date().toLocaleString(); ⚡ 8/6/2023, 8:36:41 am ⚡
+/*var d = new Date();
+console.log(d.toLocaleString());*/
+
+//Math Object 👈
+
+//console.log(Math.PI);
+
+//Math.round?()
+/*let num = 10.2555;
+console.log(Math.round(num));*/
+
+//

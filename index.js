@@ -759,3 +759,5 @@ console.log(Math.round(55.61));*/
 //console.log(Math.abs(Math.trunc(-99.1)));
 
 //  DOM in js👈
+
+

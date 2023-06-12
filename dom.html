@@ -5,8 +5,41 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>DOM</title>
+    <style>
+      * {
+        background-color: orange;
+        text-align: center;
+        margin: 20px;
+        padding: 10px;
+      }
+
+      button {
+        color: rgb(0, 0, 0);
+        background-color: aquamarine;
+        text-decoration: none;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px red;
+        cursor: pointer;
+      }
+    </style>
   </head>
   <body>
     <button class="button" onclick="goBack()">Go Back</button>
+
+    <p>
+      Notice that clicking on Back button here will redirect you to the previous
+      URL in the history list
+    </p>
+
+    <script>
+      function goBack() {
+        window.history.back();
+        alert(location.href); //show current URL
+        if (confirm("wants to visit Prerna's Github account?")) {
+          location.href = "https://github.com/PrernaSingh01"; //redirect to the browser to another URL
+        }
+      }
+    </script>
   </body>
 </html>

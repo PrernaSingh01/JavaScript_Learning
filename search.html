@@ -45,7 +45,7 @@
         font-size: 30px;
         font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
           sans-serif;
-        color: rgb(23, 0, 197);
+        color: rgb(0, 0, 0);
       }
 
       button {
@@ -64,6 +64,7 @@
       button:hover {
         color: rgb(255, 255, 255);
         background-color: orangered;
+        cursor: pointer;
       }
     </style>
   </head>
@@ -71,8 +72,28 @@
     <div class="para">Hi, I'm Prerna Singh</div>
     <div class="para">I'm currently learning JavaScript!</div>
     <a href="https://bio.link/prerna_singh"> Follow Me 👩‍💻</a>
-    <div id="heading">Change the content of the h1</div>
+    <h1 id="heading">Change the content of the h1</h1>
+
+    <form action="#">
+      <label for="#">Male</label>
+      <input type="radio" name="gender" />
+
+      <label for="#">Female</label>
+      <input type="radio" name="gender" />
+
+      <label for="#">Other</label>
+      <input type="radio" name="gender" />
+    </form>
 
     <button onclick="changeContent()">Click Me</button>
+
+    <script>
+      const changeContent = () => {
+        document.getElementById("heading").innerHTML = "Welcome to Prerna!";
+        console.log(document.getElementsByName("gender"));
+
+        document.querySelector(".para").innerHTML = "YO, It's Me again!😁";
+      };
+    </script>
   </body>
 </html>

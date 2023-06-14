@@ -9,6 +9,7 @@
         box-sizing: border-box;
         background-color: aquamarine;
         text-align: center;
+        font-size: 50px;
       }
 
       h1 {
@@ -39,8 +40,16 @@
     </div>
 
     <script>
-      const showMyName = document.querySelector("#showMyName");
+      const myName = document.querySelector("#showMyName");
       const btn = document.querySelector("#btn");
+
+      const showMyName = () => {
+        myName.innerHTML = "Loading.....👻";
+        setTimeout(() => {
+          myName.innerHTML = "Prerna Singh";
+        }, 1000);
+      };
+      btn.addEventListener("click", showMyName);
     </script>
   </body>
 </html>

@@ -760,4 +760,4 @@ console.log(Math.round(55.61));*/
 
 //  DOM in js👈
 
-
+//Events in js 👈

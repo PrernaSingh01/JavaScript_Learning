@@ -1,0 +1,70 @@
+<html>
+  <style>
+    * {
+      box-sizing: border-box;
+      background-color: rgb(255, 11, 182);
+      text-align: center;
+      font-size: 50px;
+    }
+
+    .main-div {
+      margin-top: 30%;
+    }
+
+    #btn {
+      color: black;
+      background-color: aqua;
+      font-size: 20px;
+      border-radius: 10px;
+      margin: 20px;
+      padding: 15px;
+      box-shadow: 8px 6px 10px rgb(0, 0, 0);
+      border: none;
+      cursor: pointer;
+    }
+
+    #btn1 {
+      color: black;
+      background-color: aqua;
+      font-size: 20px;
+      border-radius: 10px;
+      margin: 20px;
+      padding: 15px;
+      box-shadow: 8px 6px 10px rgb(0, 0, 0);
+      border: none;
+      cursor: pointer;
+    }
+  </style>
+  <body>
+    <div class="main-div">
+      <p>can you stop me when i reach at 5 🙋‍♀️?</p>
+      <br />
+      <button id="btn">Click here</button>
+      <button id="btn1">Stop</button>
+    </div>
+
+    <script>
+      const stopNum = document.querySelector("p");
+      const btn = document.querySelector("#btn");
+      const stopInterval = document.querySelector("#btn1");
+
+      let timeRef;
+      let num = 0;
+
+      const showMyName = () => {
+        stopNum.innerHTML = "Loading...👻";
+
+        timeRef = setInterval(() => {
+          stopNum.innerHTML = `${num}`;
+          num++;
+        }, 1000);
+      };
+
+      btn.addEventListener("click", showMyName);
+
+      stopInterval.addEventListener("click", () => {
+        clearInterval(timeRef);
+      });
+    </script>
+  </body>
+</html>

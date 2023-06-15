@@ -776,3 +776,13 @@ console.log(bioData);*/
 };
 
 bioData.getData();*/
+
+/*let bioData = {
+  myName: "Prerna Singh",
+  myAge: "22",
+  getData() {
+    console.log(`My name is ${bioData.myName} and my age is ${bioData.myAge}`);
+  },
+};
+
+bioData.getData();*/

@@ -30,6 +30,8 @@ Exciting times in my coding journey! 💪
 
 <hr>
 
+#Day27 of #100DaysOfCode is in the books! 📚✅ Explored the Math object, worked on a date and time project, and mastered the onclick event. Feeling accomplished and motivated to keep pushing my coding skills further. Exciting times ahead! 🚀💻
+
 #Day21 of #100DaysOfCode: Making progress in my JavaScript journey!🚀 <br>
 Delved into arrays and their powerful capabilities. Also conquered some challenging coding questions along the way. 
 Feeling excited and ready to take on more. <br>

@@ -766,3 +766,13 @@ console.log(Math.round(55.61));*/
 
 /*let bioData = "Prerna Singh";
 console.log(bioData);*/
+
+/*let bioData = {
+  myName: "Prerna Singh",
+  myAge: "22",
+  getData: function () {
+    console.log(`My name is ${bioData.myName} and my age is ${bioData.myAge}`);
+  },
+};
+
+bioData.getData();*/

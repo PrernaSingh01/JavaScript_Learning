@@ -65,4 +65,5 @@ Ready to take on more coding challenges and keep progressing! 💪🚀
 
 <hr>
 
-#Day27 of #100DaysOfCode is in the books! 📚✅ Explored the Math object, worked on a date and time project, and mastered the onclick event. Feeling accomplished and motivated to keep pushing my coding skills further. Exciting times ahead! 🚀💻
+#Day27 of #100DaysOfCode is in the books! 📚✅ Explored the Math object, worked on a date and time project, and mastered the onclick event.<br>
+Feeling accomplished and motivated to keep pushing my coding skills further. Exciting times ahead! 🚀💻

@@ -763,3 +763,6 @@ console.log(Math.round(55.61));*/
 //Events in js 👈
 
 //OOPS concept👈
+
+/*let bioData = "Prerna Singh";
+console.log(bioData);*/

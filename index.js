@@ -786,3 +786,37 @@ bioData.getData();*/
 };
 
 bioData.getData();*/
+
+/*const obj = {
+  myAge: 22,
+  myName() {
+    console.log(this.myAge);
+  },
+};
+
+obj.myName();*/
+
+/*const obj = {
+  myAge: 22,
+  myName: () => {
+    console.log(this);
+  },
+};
+
+obj.myName();*/
+
+let bioData = {
+  myName: {
+    realName: "Prerna",
+    sirName: "Singh",
+  },
+
+  myAge: 22,
+  getData() {
+    console.log(
+      `My name is ${this.myName.realName} and my age is ${this.myAge}`
+    );
+  },
+};
+
+bioData.getData();

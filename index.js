@@ -805,7 +805,7 @@ obj.myName();*/
 
 obj.myName();*/
 
-let bioData = {
+/*let bioData = {
   myName: {
     realName: "Prerna",
     sirName: "Singh",
@@ -818,5 +818,11 @@ let bioData = {
     );
   },
 };
+`
+bioData.getData();*/
 
-bioData.getData();
+//Event propagation
+
+//Asynchronous JavaScript
+
+//Hoisting

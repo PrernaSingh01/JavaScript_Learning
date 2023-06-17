@@ -826,3 +826,7 @@ bioData.getData();*/
 //Asynchronous JavaScript
 
 //Hoisting
+
+//Scope chain
+
+//Lexical Scoping

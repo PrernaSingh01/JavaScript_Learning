@@ -831,7 +831,7 @@ bioData.getData();*/
 
 //Lexical Scoping
 
-function func1() {
+/*function func1() {
   setTimeout(() => {
     console.log(x);
     console.log(y);
@@ -840,7 +840,7 @@ function func1() {
   var x = 2;
   let y = 12;
 }
-func1();
+func1();*/
 
 /*function func2() {
   for (var i = 0; i < 3; i++) {
